@@ -18,7 +18,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 - 🤝 I’m looking to connect and/or collaborate with others interested data.
 
 ## Fun facts
-
+- I wish to work in the financial sector someday 🙈
 
 ## Natural languages
 - Chichewa
