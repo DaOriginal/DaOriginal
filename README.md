@@ -13,6 +13,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 - 🩺 Nowadays I work in the health sector.
 
 ## Current
+- 📚 Currently doing my Master of Computer Applications - Data Analytics with JAIN Online - JAIN (Deemed-to-be University), Bangalore, India!
 - 📚 I have a 1 year subscription on DataCamp. Am currently currently doing my data engineering track.
 - 📚 Am also doing a data engineering course on Coursera.
 - 🤝 I’m looking to connect and/or collaborate with others interested data.
