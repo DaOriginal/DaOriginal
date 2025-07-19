@@ -29,8 +29,9 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 ## Languages and Tools
 - SQL (Oracle,Mysql, PostgreSQL,DuckDB)
 - Python (Pandas,Numpy, Polars, Streamlit)
+- FastAPI
 - R
-- Airflow, dbt, Apache spark
+- Airflow, dbt, Apache spark, Apache Kafka
 - Excel, Tableau, QlikSense
 - Bash shell scripting.
 - Snowflake
